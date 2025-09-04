@@ -18,7 +18,9 @@ const Hero = () => {
           <h1 className="text-4xl lg:text-6xl font-bold text-gray-800 mb-4 leading-tight">
             Savourez de délicieux plats au
             <br />
-            Restaurant Juma
+            <span className="bg-gradient-to-r from-emerald-500 via-emerald-500 to-emerald-500 bg-clip-text text-transparent">
+              Restaurant Juma
+            </span>
           </h1>
         </div>
 
