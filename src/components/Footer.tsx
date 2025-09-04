@@ -17,8 +17,8 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-emerald-600 mt-0.5 flex-shrink-0" />
                 <span className="text-gray-600">
-                  123 Rue Saint-Honoré<br />
-                  75001 Paris, France
+                  15 Aminu Kano Crescent<br<br />
+                  Wuse II, Abuja 900271, Nigeria
                 </span>
               </div>
               <div className="flex items-start space-x-3">
