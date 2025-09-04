@@ -16,9 +16,9 @@ const Hero = () => {
         {/* Hero Text */}
         <div className="text-center mb-12">
           <h1 className="text-4xl lg:text-6xl font-bold text-gray-800 mb-4 leading-tight">
-            Plongez dans de Délicieux
+            Savourez de délicieux plats au
             <br />
-            Plats de Restaurant
+            Restaurant Juma
           </h1>
         </div>
 
